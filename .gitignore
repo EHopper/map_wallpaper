@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Any image files
+*.tif
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Python virtualenv
+.python-version
+
+# IPython Notebooks
+*ipynb_checkpoints
+
+# MacOS files
+.DS_Store
