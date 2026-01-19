@@ -4,6 +4,7 @@ __pycache__/
 
 # Any image files
 *.tif
+*.tiff
 *.pdf
 *.png
 *.jpg
